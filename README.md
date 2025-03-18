@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,spark,kubernetes,elasticsearch)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,spark,airflow,git,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=python,apache spark,airflow,git,kubernetes,docker" />
   </a>
 </p>
 
